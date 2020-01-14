@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - ScoreManager
+  - Rocket
+  - MissBox
+  - Character
+  - HealthManager
+  - MusicManager
+  - NoteGenerator
+  - ComboManager
+  - SongList
+  - Difficulty
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Lines
+    uniqueID: 1492906021
+    locked: 0
+  - name: Neon
+    uniqueID: 4291905171
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
